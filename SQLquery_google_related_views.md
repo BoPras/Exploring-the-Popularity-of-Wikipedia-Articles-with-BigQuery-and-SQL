@@ -1,4 +1,5 @@
 # Exploring-the-Popularity-of-Wikipedia-Articles-with-BigQuery-and-SQL
+# Google-Related-View
 SELECT
   language,
   title,
